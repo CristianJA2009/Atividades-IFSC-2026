@@ -1,0 +1,39 @@
+* {
+    font-family: monospace;
+    padding: 5px;
+    transition: all ease 0.3s;
+}
+
+button {
+    border: 1px solid lightgray;
+}
+
+button:hover {
+    background-color: lightgray;
+    font-size: 200%;
+    cursor: pointer;
+}
+
+.b {
+    background-color: rgb(255, 197, 197);
+    width: 75px;
+    border-radius: 5px;
+}
+
+.b2 {
+    background-color: rgb(197, 255, 206);
+    width: 75px;
+    border-radius: 5px;
+}
+
+.a {
+    background-color: rgb(255, 197, 197);
+    width: 25%;
+    border-radius: 5px;
+}
+
+.a2 {
+    background-color: rgb(197, 255, 206);
+    width: 25%;
+    border-radius: 5px;
+}
